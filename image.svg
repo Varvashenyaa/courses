@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="250">
+  <ellipse cx="30%" cy="55%" fill="orange" rx="50" ry="17" transform="rotate(20 65 40)"/>
+  <ellipse cx="80%" cy="90%" fill="#d3d3d3" rx="70" ry="15"/>
+  <ellipse cx="40%" cy="90%" fill="#d3d3d3" rx="70" ry="15"/>
+  <circle cx="80%" cy="60%" r="75" fill="gold"/>
+  <circle cx="40%" cy="60%" r="75" fill="orange"/>
+  <circle cx="47%" cy="55%" r="33" fill="#fff"/>
+  <circle cx="38%" cy="54%" r="33" fill="#fff"/>
+  <circle cx="83%" cy="55%" r="33" fill="#fff"/>
+  <circle cx="74%" cy="54%" r="33" fill="#fff"/>
+  <circle cx="47%" cy="55%" r="7"/>
+  <circle cx="40%" cy="54%" r="7"/>
+  <circle cx="81%" cy="55%" r="7"/>
+  <circle cx="74%" cy="54%" r="7"/>
+  <circle cx="43%" cy="67%" r="10"/>
+  <ellipse cx="40%" cy="80%" fill="red" rx="15" ry="7"/>
+  <ellipse cx="80%" cy="80%" fill="red" rx="7" ry="13"/>
+  <path stroke="orange" stroke-width="4" d="m180 80-30 15 10-45zm40 0 30 14-10-39z"/>
+  <path fill="#fff" d="m70 145 20-6-10 20z"/>
+</svg>
